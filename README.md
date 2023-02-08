@@ -1,6 +1,6 @@
 ### Oi! Eu sou a Larissa Costa
-👾Tenho 21 anos
-🌱Estou aprendendo Dart e futter para criação de apps.
+<p>👾Tenho 21 anos<p>
+<p>🌱Estou aprendendo Dart e futter para criação de apps.<p>
 
   <a herf="https://github.com/lcramaldes">
 <div style="display: inline_block"><br>
