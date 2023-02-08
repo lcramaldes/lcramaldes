@@ -1,7 +1,9 @@
-### Oi! Eu sou a Larissa Costa
-<p>👾Tenho 21 anos<p>
-<p>🌱Estou aprendendo Dart e futter para criação de apps.<p>
+<div align="center">
 
+  <h3> Oi! Eu sou a Larissa Costa</h3>
+<p>Atualmente sou estudante do curso de Desenvolvimento de Software na Step Computer Academy e de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul! Estou trabalhando na área como Estagiário de Desenvolvimento na Sennit. </p>
+
+  ## Tecnologias que eu utilizo
   <a herf="https://github.com/lcramaldes">
 <div style="display: inline_block"><br>
   <img align="center" alt="Lari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,11 +14,13 @@
   <img align="center" alt="Lari-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Lari-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
    <img align="center" alt="Lari-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+   <img align="center" alt="Lari-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 </div>
   
-  ##
+  ## Entre em contato comigo!
  
 <div> 
   <a href="https://www.youtube.com/channel/UC6FDTK_0MYEocQ9d8mvOkLQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larissa--costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+    </div>
+    </div>
