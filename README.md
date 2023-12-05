@@ -1,7 +1,8 @@
 <div align="center">
 
   <h3> Oi! Eu sou a Larissa Costa</h3>
-<p> Sou estudando de Ui Ux Design e desenvolverdora júnior Front-end. Estou sempre estudando e colocando em práticas meus conhecimentos. </p>
+<p> Sou estudando de Ui Ux Design e desenvolverdora júnior Front-end. </p>
+ <p> Estou sempre estudando e colocando em práticas meus conhecimentos. </p>
 
   ## Tecnologias que eu utilizo
   <a herf="https://github.com/lcramaldes">
