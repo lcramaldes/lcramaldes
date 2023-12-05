@@ -1,7 +1,7 @@
 <div align="center">
 
   <h3> Oi! Eu sou a Larissa Costa</h3>
-<p>Atualmente sou estudante do curso de Desenvolvimento de Software na Step Computer Academy e de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul! Estou trabalhando na área como Estagiário de Desenvolvimento na Sennit. </p>
+<p> Sou estudando de Ui Ux Design e desenvolverdora júnior Front-end. Estou sempre estudando e colocando em práticas meus conhecimentos. </p>
 
   ## Tecnologias que eu utilizo
   <a herf="https://github.com/lcramaldes">
